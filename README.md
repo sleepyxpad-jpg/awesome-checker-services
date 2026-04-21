@@ -26,6 +26,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | URL | Description | 💳 |
 | --- | ----------- | -- |
 | https://achecks.ca/achecker | Checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. | Free |
+| https://pageguard.org | Scans websites for ADA/WCAG 2.1 AA accessibility issues, SEO, and performance. Builds a compliance record with automated monitoring. | Free and paid plans |
 | http://www.dasilva.org.br/ | Test sites for accessibility issues (W3C/WAI  - WCAG1 and WCAG2 - and E-mag). | Free |
 | https://excellentwebcheck.com/website-accessibility-checker | Test entire websites for accessibility issues on mobile, tablet and desktop screen sizes. | Free and paid plans |
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
@@ -150,6 +151,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://nibbler.silktide.com/ | Nibbler is a free tool for testing websites. Enter the address of any website and Nibbler will give you a report scoring the website out of 10 for key areas, including accessibility, SEO, social media and technology. | Free and paid plans |
 | https://search.google.com/structured-data/testing-tool/u/0/ | Evaluate your structured data (rich snippets) markup for errors or warnings. | Free |
 | https://www.seobility.net/en | All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools. | Free and paid plans |
+| https://pageguard.org | All-in-one website health scanner: SEO audit, accessibility check, and performance test in one scan. | Free and paid plans |
 | https://seomator.com | SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips. | Paid |
 
 
@@ -193,6 +195,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://pageweight.imgix.com/ | See how images affect your page speed. | Free |
 | https://testmysite.withgoogle.com | Checks websites for performance issues and provides reports. | Free |
 | https://toolbox.googleapps.com/apps/har_analyzer | Analyze the performance with a HAR file. | Free |
+| https://pageguard.org | Scans websites for Core Web Vitals, performance issues, and provides actionable recommendations. Includes automated monitoring. | Free and paid plans |
 | https://tools.pingdom.com/ | Enter a URL to test the load time of that page, analyze it and find bottlenecks. | Free and paid plans |
 | https://www.uptrends.com/tools/website-speed-test | Check the performance from 30+ free and 160+ paid checkpoints. | Free and paid plans |
 | https://www.webpagetest.org | Website performance test tools with many options. | Free |
